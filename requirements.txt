@@ -1,8 +1,4 @@
 streamlit
 tensorflow-cpu==2.11.0
-scikit-learn
 numpy
-pandas
-fuzzywuzzy
-python-Levenshtein
-h5py
+pickle-mixin
